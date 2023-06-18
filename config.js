@@ -15,7 +15,7 @@ global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
 global.instagram = 'https://instagram.com/raka.ramadhan180108'
 
-global.helper = ['6285850539404']
+global.helper = ['62882006212045']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -79,13 +79,13 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '564588643' // default 10TB
-global.fpagedoc = '444'
+global.fsizedoc = '999999999' // default 10TB
+global.fpagedoc = '777'
 
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = 'KhaXd'
+global.author = 'Kha offc'
+global.wm = '© WhoKha?? offc'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
